@@ -1,0 +1,9 @@
+#Config of WorkPlace
+.metadata/
+RemoteSystemsTempFiles/
+
+# Zend Studio
+.settings/
+*.buildpath
+*.project
+

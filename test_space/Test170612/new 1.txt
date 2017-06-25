@@ -1,0 +1,74 @@
+无序的数组  -->  有序的 二叉树  从小到大
+
+排序OK
+
+生成二叉树 -->  
+
+MVC MVP
+
+C control Activty
+
+Model（模块）; 百分比适配； Helper; Arrays; 
+
+创建线程~
+
+Thread thread = new Thread(new Runnable());
+thread.start();
+
+线程池。Pool.  Runnable  pool.ex(run);
+
+AsyncTask --> Thread + Handler
+
+
+Https;
+
+Http --> https;
+
+SSL 中间人攻击; 证书; 
+
+VerifyHost;  客户端证书和服务端证书不匹配;
+时好时坏.... // 轮子, 排除方法.
+
+App.  BroadCast ContentProvider  ->  SD 读写数据,  实时;BroadCast ContentProvider; 
+AIDL()；跨进程.
+
+AIDL...
+
+AnyOffice。。 
+
+Adapter.. ListAdapter BaseApdater ArrayAdapter --> ListView
+  RecycleAdapter
+  
+多个 接口(Adapter) 对接多个
+
+View（多种）  -->  ListView（du哦中） ScrollView
+
+BaseApdater
+
+getCount()  getView()  2个; 名字不记得了. recycle
+
+getView(...){
+	if(null == con){
+	  ...
+	}
+}
+
+setHost(。。。);
+
+CommontListAdapter
+
+R.layout。mmm  item
+
+getView()
+{
+	setText(R.id.,,, content)
+}
+
+// 旧版 新版.. 
+// studio 数据处理,UI绘制
+
+使用..  recycler 适合 制作 瀑布流.. 
+
+model();   帮助绘制..  加强的listView
+
+ 
